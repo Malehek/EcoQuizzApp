@@ -23,10 +23,13 @@
 
 ---
 
+## App Link 
+- https://eco-quizz-app-c2vj.vercel.app/
+
 ## 📱 App Screenshot
 
 
-![EcoQuizzApp Home Screen](assets\images\screenshot.PNG)
+![EcoQuizzApp Home Screen](assets/images/screenshot.PNG)
 
 ---
 
